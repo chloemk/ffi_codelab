@@ -1,6 +1,7 @@
 # ffigen_app
 
-A new Flutter FFI plugin project.
+Flutter FFI plugin project following codelabs tutorial.
+[Google codelabs tutorial](https://codelabs.developers.google.com/codelabs/flutter-ffigen#0)
 
 ## Getting Started
 
